@@ -1,0 +1,574 @@
+﻿  Main.cpp
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(392,39): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1454,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1464,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1471,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1480,32): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1489,40): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1505,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1515,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1524,30): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1532,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1539,32): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1548,32): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1559,30): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1568,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1576,33): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1585,30): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1594,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(1603,33): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\DGDMA\Media.vcxprojGGG\Include\DMALibrary\libs\vmmdll.h(2138,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(280,1): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(481,62): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(274): message : 参见“FString”的声明
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(482,61): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(274): message : 参见“FString”的声明
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(487,64): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(274): message : 参见“FString”的声明
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(488,61): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(274): message : 参见“FString”的声明
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(489,61): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(274): message : 参见“FString”的声明
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(490,61): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(274): message : 参见“FString”的声明
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(491,60): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(274): message : 参见“FString”的声明
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(492,64): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(274): message : 参见“FString”的声明
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\NetConfig\kmboxNet.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\NetConfig\HidTable.h(121,1): warning C4005: “KEY_EXECUTE”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(21695): message : 参见“KEY_EXECUTE”的前一个定义
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Decrypt.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(602,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(294,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(294,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(294,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(294,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(294,158): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(294,158): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(294,202): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(294,202): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(295,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(295,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(295,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(295,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(295,158): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(295,158): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(295,202): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(295,202): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(296,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(296,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(296,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(296,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(296,159): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(296,159): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(296,204): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(296,204): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(297,71): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(297,71): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(297,116): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(297,116): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(297,161): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(297,161): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(297,206): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(297,206): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(600,41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(601,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(755,153): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(755,111): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(786,141): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Players.h(786,99): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,28): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,28): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,88): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,88): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,123): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,123): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,188): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,188): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,193): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,193): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,203): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(36,203): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(37,26): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(37,26): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(37,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(37,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(37,41): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(37,41): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,21): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,21): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,26): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,26): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,36): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,36): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,41): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,41): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,71): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,71): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,91): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,91): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,101): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,101): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,126): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,126): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,136): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,136): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,156): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,156): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,171): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(38,171): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,1): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,1): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,6): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,6): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,16): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,16): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,36): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,36): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,61): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,61): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,66): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,66): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,76): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,76): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,81): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,81): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,86): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,86): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,96): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,96): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,106): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,106): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,111): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,111): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,121): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,121): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,126): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,126): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,131): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,131): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,136): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,136): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,151): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,151): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,171): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(39,171): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,11): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,11): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,16): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,16): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,26): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,26): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,51): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,51): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,56): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,56): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,66): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,66): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,71): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,71): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,76): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,76): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,91): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,91): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,101): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,101): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,121): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,121): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,146): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,146): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,151): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,151): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,166): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,166): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,171): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(40,171): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,1): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,1): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,56): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,56): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,61): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,61): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,66): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,66): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,81): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,81): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,91): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,91): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,121): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,121): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,126): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,126): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(41,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,11): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,11): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,16): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,16): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,26): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,26): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,36): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,36): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,46): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,46): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,71): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,71): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,76): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,76): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,86): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,86): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,91): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,91): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,96): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,96): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,101): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,101): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,131): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,131): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,156): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,156): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(42,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,11): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,11): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,36): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,36): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,61): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,61): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,91): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,91): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,116): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,116): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,121): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,121): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,131): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,131): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,136): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,136): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,141): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,141): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,151): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(43,151): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,1): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,1): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,11): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,11): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,56): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,56): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,61): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,61): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,71): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,71): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,76): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,76): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,86): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,86): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,91): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,91): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,116): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,116): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,121): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,121): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,126): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,126): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,131): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,131): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,136): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,136): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,141): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,141): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,146): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,146): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,151): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,151): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,156): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,156): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(44,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,11): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,11): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,16): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,16): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,81): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,81): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,106): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,106): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,131): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,131): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,151): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,151): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,156): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(45,156): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,6): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,6): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,56): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,56): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,61): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,61): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,81): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,81): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,121): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,121): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,131): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,131): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,151): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,151): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,156): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,156): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(46,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,6): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,6): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,36): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,36): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,41): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,41): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,96): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,96): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,111): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,111): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,136): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,136): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,166): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(47,166): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,1): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,1): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,21): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,21): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,46): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,46): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,51): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,51): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,61): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,61): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,86): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,86): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,111): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,111): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,116): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,116): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,126): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,126): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,141): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,141): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,166): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,166): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,171): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(48,171): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,6): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,6): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,56): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,56): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,76): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,76): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,86): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,86): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,91): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,91): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,96): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,96): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,106): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,106): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,111): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,111): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,116): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,116): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,121): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,121): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,171): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(49,171): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,11): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,11): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,56): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,56): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,101): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,101): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,116): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,116): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,136): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,136): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,171): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(50,171): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,1): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,1): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,6): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,6): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,16): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,16): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,41): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,41): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,81): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,81): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,86): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,86): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,106): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,106): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,126): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,126): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,131): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,131): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,146): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,146): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,171): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(51,171): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,11): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,11): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,51): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,51): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,71): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,71): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,91): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,91): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,126): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,126): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,141): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,141): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,146): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,146): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,156): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,156): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,161): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,161): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,171): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(52,171): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,1): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,1): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,16): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,16): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,21): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,21): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,31): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,31): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,46): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,46): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,66): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,66): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,71): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,71): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,96): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,96): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,101): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,101): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,126): warning C4838: 从“int”转换到“const char”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\LineTraceHook.h(53,126): warning C4309: “初始化”: 截断常量值
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(618,28): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(635,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(635,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(644,28): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(786,51): warning C4838: 从“unsigned __int64”转换到“int”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(786,51): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(787,51): warning C4838: 从“unsigned __int64”转换到“int”需要收缩转换
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(787,51): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(909,135): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(1147,80): warning C4244: “=”: 从“ULONGLONG”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(1168,75): warning C4244: “=”: 从“ULONGLONG”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(1183,73): warning C4244: “=”: 从“ULONGLONG”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(1363,36): warning C4244: “初始化”: 从“float”转换到“SHORT”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(1438,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\AimBot.h(887,30): warning C4101: “BallisticCurve”: 未引用的局部变量
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Radar.h(88,122): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Radar.h(88,80): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Common\Config.h(407,76): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\DGDMA\Media.vcxprojGGG\Source\Common\Config.h(412,80): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\DGDMA\Media.vcxprojGGG\Source\Common\Config.h(417,80): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(43,1): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(85,1): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(251,86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(253,75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(303,91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(305,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(355,86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(357,75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(407,91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(409,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Rank.h(478,78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Hack.h(285,63): warning C4244: “参数”: 从“T”转换到“DWORD”，可能丢失数据
+          with
+          [
+              T=UINT64
+          ]
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\MachineCodeGenerator.h(26,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\w3c\w3c.h(5,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\DGDMA\Media.vcxprojGGG\Main.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(202,1): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(201): message : 在编译 类 模板 成员函数“bool TArray<TSetElement<T>>::GetValues(TSetElement<T> &,size_t) const”时
+          with
+          [
+              T=TPair<FString,FTslWidgetState>
+          ]
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(208): message : 查看对正在编译的函数 模板 实例化“bool TArray<TSetElement<T>>::GetValues(TSetElement<T> &,size_t) const”的引用
+          with
+          [
+              T=TPair<FString,FTslWidgetState>
+          ]
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(251): message : 查看对正在编译的 类 模板 实例化“TArray<TSetElement<T>>”的引用
+          with
+          [
+              T=TPair<FString,FTslWidgetState>
+          ]
+D:\DGDMA\Media.vcxprojGGG\Source\Utils\Engine.h(260): message : 查看对正在编译的 类 模板 实例化“TSet<TPair<KeyType,ValueType>>”的引用
+          with
+          [
+              KeyType=FString,
+              ValueType=FTslWidgetState
+          ]
+D:\DGDMA\Media.vcxprojGGG\Source\Hack\Radar.h(57): message : 查看对正在编译的 类 模板 实例化“TMap<FString,FTslWidgetState>”的引用
+    正在创建库 D:\DGDMA\Media.vcxprojGGG\x64\Release\Media.lib 和对象 D:\DGDMA\Media.vcxprojGGG\x64\Release\Media.exp
+  正在生成代码
+  9 of 16919 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    95 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Media.vcxproj -> D:\DGDMA\Media.vcxprojGGG\x64\Release\Media.exe

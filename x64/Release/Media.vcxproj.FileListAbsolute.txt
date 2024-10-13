@@ -1,0 +1,3 @@
+D:\C++\DMAS\Source\x64\Release\Media.exe
+D:\DGDMA\Media.vcxproj\x64\Release\Media.exe
+D:\DGDMA\Media.vcxprojGGG\x64\Release\Media.exe

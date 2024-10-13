@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{3a4ea854-3957-4f33-b83a-5d9ee264d47f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Overlay">
+      <UniqueIdentifier>{205de8b3-ba7d-49fd-bb94-2c7a1786cecd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{6db27009-88b9-4af5-afa1-6f308e76be26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hack">
+      <UniqueIdentifier>{97c69cfa-9ded-4f13-8bf9-e45424de58cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DMALibrary">
+      <UniqueIdentifier>{fb3c0960-b652-485f-93e2-71bbf3df1929}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DMALibrary\libs">
+      <UniqueIdentifier>{9f7dcf04-9887-4c42-8b0a-d607966f0c61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DMALibrary\Memory">
+      <UniqueIdentifier>{a3f6b418-2a68-41f3-8d14-e0514c2f9a41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DMALibrary\nt">
+      <UniqueIdentifier>{2de45106-2710-4eeb-90c6-3a6c69a0bfd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{41a4cb82-026c-4804-b1ea-b788eed0c2a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nlohmann">
+      <UniqueIdentifier>{98d8d80a-0a86-4b95-845b-8220666b9466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\NetConfig">
+      <UniqueIdentifier>{5813b443-2c45-47fb-a5f4-039c5abc6bfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\ue4math">
+      <UniqueIdentifier>{5dc3e7ed-89e4-455b-84d0-cc708e1936b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Overlay\Menu">
+      <UniqueIdentifier>{3ddfd143-8861-474a-96a5-99d899998a8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Auth">
+      <UniqueIdentifier>{8c3188e3-d052-490c-8379-878ac07fdd10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AntiCheat">
+      <UniqueIdentifier>{504b629b-84ff-4093-bcd3-16302136e733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Overlay\头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="cJSON">
+      <UniqueIdentifier>{b7f818cc-dabb-4c17-8506-981f4ff55387}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\w3c">
+      <UniqueIdentifier>{da171a61-16d2-4c77-9adc-7cbe8becfefe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Overlay\Overlay.cpp">
+      <Filter>Overlay</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Common\Entitys.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\Throttler.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Common\VectorHelper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\DMALibrary\Memory\Memory.cpp">
+      <Filter>DMALibrary\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\DMALibrary\Memory\Registry.cpp">
+      <Filter>DMALibrary\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\DMALibrary\Memory\Shellcode.cpp">
+      <Filter>DMALibrary\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\DMALibrary\Memory\InputManager.cpp">
+      <Filter>DMALibrary\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\DMALibrary\DMALibrary.cpp">
+      <Filter>DMALibrary</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\string.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\Timer.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\Lurker.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\MoBox.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\KmBox.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\NetConfig\kmboxNet.cpp">
+      <Filter>Utils\NetConfig</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui_impl_dx12.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui_impl_win32.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui_tables.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui_impl_dx11.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Hack\Decrypt.cpp">
+      <Filter>Hack</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\ue4math\quat.cpp">
+      <Filter>Utils\ue4math</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\ue4math\rotator.cpp">
+      <Filter>Utils\ue4math</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\ue4math\transform.cpp">
+      <Filter>Utils\ue4math</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\ue4math\vector.cpp">
+      <Filter>Utils\ue4math</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\ue4math\matrix.cpp">
+      <Filter>Utils\ue4math</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Overlay\Texture.cpp">
+      <Filter>Overlay</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\imgui\imgui_stdlib.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Overlay\DMARender.cpp">
+      <Filter>Overlay</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Hack\Process.cpp">
+      <Filter>Hack</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\cJSON\cJSON.c">
+      <Filter>cJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\w3c\w3c.cpp">
+      <Filter>Utils\w3c</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Utils\Utils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Overlay.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common\Data.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Hack.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common\Offset.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common\Constant.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common\Entitys.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common\Bone.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Throttler.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common\VectorHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\ESP.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\RenderHelper.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\Memory\InputManager.h">
+      <Filter>DMALibrary\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\Memory\Memory.h">
+      <Filter>DMALibrary\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\Memory\Registry.h">
+      <Filter>DMALibrary\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\Memory\Shellcode.h">
+      <Filter>DMALibrary\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\nt\structs.h">
+      <Filter>DMALibrary\nt</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\framework.h">
+      <Filter>DMALibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\pch.h">
+      <Filter>DMALibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\string.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Timer.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common\Config.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\KeyState.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\KmBox.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Lurker.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\MoBox.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\COM.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\NetConfig\kmboxNet.h">
+      <Filter>Utils\NetConfig</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\NetConfig\HidTable.h">
+      <Filter>Utils\NetConfig</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\KmBoxNet.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\MachineCodeGenerator.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Auth.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imgui_impl_dx11.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imgui_impl_dx12.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imgui_impl_win32.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imstb_rectpack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imstb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imstb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Decrypt.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\GNames.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\ue4math\matrix.h">
+      <Filter>Utils\ue4math</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\ue4math\quat.h">
+      <Filter>Utils\ue4math</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\ue4math\rotator.h">
+      <Filter>Utils\ue4math</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\ue4math\transform.h">
+      <Filter>Utils\ue4math</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\ue4math\ue4math.h">
+      <Filter>Utils\ue4math</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\ue4math\vector.h">
+      <Filter>Utils\ue4math</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Engine.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Texture.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\AimBot.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\libs\leechcore.h">
+      <Filter>DMALibrary\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DMALibrary\libs\vmmdll.h">
+      <Filter>DMALibrary\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Players.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Actors.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Vehicles.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imgui_settings.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Style.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Map.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\MThreadRenderer.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\imgui\imgui_stdlib.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\DMARender.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Items.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Projects.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\HealthBar.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Radar.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\FNVHash.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\LineTraceHook.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Process.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Menu\Menu.h">
+      <Filter>Overlay\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Menu\MenuAimBot.h">
+      <Filter>Overlay\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Menu\MenuPlayerLists.h">
+      <Filter>Overlay\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Menu\MenuItem.h">
+      <Filter>Overlay\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Overlay\Menu\MenuESP.h">
+      <Filter>Overlay\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Auth\Auth.h">
+      <Filter>Auth</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Sha.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AntiCheat\AntiCheat.h">
+      <Filter>AntiCheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\stb_image.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\shoulei.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\cJSON\cJSON.h">
+      <Filter>cJSON</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Hack\Rank.h">
+      <Filter>Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\w3c\w3c.h">
+      <Filter>Utils\w3c</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="Include\DMALibrary\libs\leechcore.lib">
+      <Filter>DMALibrary\libs</Filter>
+    </Library>
+    <Library Include="Include\DMALibrary\libs\vmm.lib">
+      <Filter>DMALibrary\libs</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

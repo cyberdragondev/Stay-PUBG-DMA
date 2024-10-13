@@ -1,0 +1,336 @@
+﻿  DMALibrary.cpp
+D:\U\Media.vcxproj\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\leechcore.h(120,15):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\leechcore.h(473,14):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\leechcore.h(482,14):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(392,39):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1454,29):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1464,29):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1471,31):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1480,32):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1489,40):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1505,29):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1515,29):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1524,30):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1532,35):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1539,32):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1548,32):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1559,30):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1568,29):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1576,33):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1585,30):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1594,28):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(1603,33):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“Include/DMALibrary/DMALibrary.cpp”)
+  D:\U\Media.vcxproj\Include\DMALibrary\libs\vmmdll.h(2138,29):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+  InputManager.cpp
+  Memory.cpp
+  Registry.cpp
+D:\U\Media.vcxproj\Include\DMALibrary\Memory\InputManager.cpp(1,10): error C1083: 无法打开包括文件: “DMALibrary/pch.h”: No such file or directory
+D:\U\Media.vcxproj\Include\DMALibrary\Memory\Memory.cpp(1,10): error C1083: 无法打开包括文件: “DMALibrary/pch.h”: No such file or directory
+D:\U\Media.vcxproj\Include\DMALibrary\Memory\Registry.cpp(1,10): error C1083: 无法打开包括文件: “DMALibrary/pch.h”: No such file or directory
+  Shellcode.cpp
+D:\U\Media.vcxproj\Include\DMALibrary\Memory\Shellcode.cpp(1,10): error C1083: 无法打开包括文件: “DMALibrary/pch.h”: No such file or directory
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  imgui_stdlib.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+D:\U\Media.vcxproj\Include\imgui\imgui_widgets.cpp(644,139): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U\Media.vcxproj\Include\imgui\imgui_widgets.cpp(2380,121): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U\Media.vcxproj\Include\imgui\imgui_widgets.cpp(3928,167): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U\Media.vcxproj\Include\imgui\imgui_widgets.cpp(3928,110): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\U\Media.vcxproj\Include\imgui\imgui_widgets.cpp(8098,153): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U\Media.vcxproj\Include\imgui\imgui_widgets.cpp(8223,144): warning C4244: “参数”: 从“float”转换到“ImDrawFlags”，可能丢失数据
+  Main.cpp
+D:\U\Media.vcxproj\Main.cpp(3,10): error C1083: 无法打开包括文件: “Overlay/Overlay.h”: No such file or directory
+  Entitys.cpp
+D:\U\Media.vcxproj\Source\Common\Entitys.cpp(1,10): error C1083: 无法打开包括文件: “common/Entitys.h”: No such file or directory
+  VectorHelper.cpp
+D:\U\Media.vcxproj\Source\Common\Data.h(9,10): error C1083: 无法打开包括文件: “Common/Constant.h”: No such file or directory
+  (编译源文件“Source/Common/VectorHelper.cpp”)
+  
+  Decrypt.cpp
+D:\U\Media.vcxproj\Source\Hack\Decrypt.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Source/Hack/Decrypt.cpp”)
+  
+D:\U\Media.vcxproj\Source\Hack\Decrypt.cpp(2,10): error C1083: 无法打开包括文件: “DMALibrary/Memory/Memory.h”: No such file or directory
+  Process.cpp
+D:\U\Media.vcxproj\Source\Hack\Process.cpp(2,10): error C1083: 无法打开包括文件: “DMALibrary/Memory/Memory.h”: No such file or directory
+  DMARender.cpp
+  正在生成代码...
+  正在编译...
+  Overlay.cpp
+D:\U\Media.vcxproj\Source\Overlay\ESP.h(4,10): error C1083: 无法打开包括文件: “common/Data.h”: No such file or directory
+  (编译源文件“Source/Overlay/Overlay.cpp”)
+  
+  Texture.cpp
+D:\U\Media.vcxproj\Source\Overlay\Texture.cpp(3,10): error C1083: 无法打开包括文件: “Utils/stb_image.h”: No such file or directory
+  KmBox.cpp
+D:\U\Media.vcxproj\Source\Utils\COM.h(76,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(77,9): error C4996: '_ltoa': This function or variable may be unsafe. Consider using _ltoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(78,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(96,18): error C2664: “BOOL BuildCommDCBW(LPCWSTR,LPDCB)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  D:\U\Media.vcxproj\Source\Utils\COM.h(96,31):
+  指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(7370,1):
+  参见“BuildCommDCBW”的声明
+  D:\U\Media.vcxproj\Source\Utils\COM.h(96,18):
+  尝试匹配参数列表“(char *, DCB *)”时
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(193,23): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char [20]”转换为“LPCWSTR”
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  D:\U\Media.vcxproj\Source\Utils\COM.h(194,13):
+  指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(92,1):
+  参见“CreateFileW”的声明
+  D:\U\Media.vcxproj\Source\Utils\COM.h(193,23):
+  尝试匹配参数列表“(char [20], unsigned long, int, int, int, int, int)”时
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(257,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(283,23): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char [20]”转换为“LPCWSTR”
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  D:\U\Media.vcxproj\Source\Utils\COM.h(284,13):
+  指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(92,1):
+  参见“CreateFileW”的声明
+  D:\U\Media.vcxproj\Source\Utils\COM.h(283,23):
+  尝试匹配参数列表“(char [20], unsigned long, int, int, int, int, int)”时
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(380,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(416,42): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(399,13): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(625,34): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“Source/Utils/KmBox.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\KmBox.cpp(6,10): error C1083: 无法打开包括文件: “common/Data.h”: No such file or directory
+  Lurker.cpp
+D:\U\Media.vcxproj\Source\Utils\COM.h(76,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(77,9): error C4996: '_ltoa': This function or variable may be unsafe. Consider using _ltoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(78,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(96,18): error C2664: “BOOL BuildCommDCBW(LPCWSTR,LPDCB)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  D:\U\Media.vcxproj\Source\Utils\COM.h(96,31):
+  指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(7370,1):
+  参见“BuildCommDCBW”的声明
+  D:\U\Media.vcxproj\Source\Utils\COM.h(96,18):
+  尝试匹配参数列表“(char *, DCB *)”时
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(193,23): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char [20]”转换为“LPCWSTR”
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  D:\U\Media.vcxproj\Source\Utils\COM.h(194,13):
+  指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(92,1):
+  参见“CreateFileW”的声明
+  D:\U\Media.vcxproj\Source\Utils\COM.h(193,23):
+  尝试匹配参数列表“(char [20], unsigned long, int, int, int, int, int)”时
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(257,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(283,23): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char [20]”转换为“LPCWSTR”
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  D:\U\Media.vcxproj\Source\Utils\COM.h(284,13):
+  指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(92,1):
+  参见“CreateFileW”的声明
+  D:\U\Media.vcxproj\Source\Utils\COM.h(283,23):
+  尝试匹配参数列表“(char [20], unsigned long, int, int, int, int, int)”时
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(380,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(416,42): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(399,13): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\COM.h(625,34): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“Source/Utils/Lurker.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\Lurker.cpp(23,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\U\Media.vcxproj\Source\Utils\Lurker.cpp(24,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\U\Media.vcxproj\Source\Utils\Lurker.cpp(27,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MoBox.cpp
+D:\U\Media.vcxproj\Source\Utils\MoBox.cpp(5,10): error C1083: 无法打开包括文件: “common/Data.h”: No such file or directory
+  kmboxNet.cpp
+D:\U\Media.vcxproj\Source\Utils\NetConfig\kmboxNet.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\U\Media.vcxproj\Source\Utils\NetConfig\kmboxNet.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Source/Utils/NetConfig/kmboxNet.cpp”)
+  
+D:\U\Media.vcxproj\Source\Utils\NetConfig\HidTable.h(121,1): warning C4005: “KEY_EXECUTE”: 宏重定义
+  (编译源文件“Source/Utils/NetConfig/kmboxNet.cpp”)
+  D:\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(23266,1):
+  参见“KEY_EXECUTE”的前一个定义
+  
+D:\U\Media.vcxproj\Source\Utils\NetConfig\kmboxNet.cpp(509,17): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\U\Media.vcxproj\Source\Utils\NetConfig\kmboxNet.cpp(859,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  string.cpp
+  Throttler.cpp
+  Timer.cpp
+  matrix.cpp
+  quat.cpp
+  rotator.cpp
+  transform.cpp
+  vector.cpp
+  w3c.cpp
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(50,19): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“LPTSTR”
+  D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(50,19):
+  请考虑在格式字符串中使用“%ls”
+  D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(50,19):
+  请考虑在格式字符串中使用“%lls”
+  D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(50,19):
+  请考虑在格式字符串中使用“%Ls”
+  D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(50,19):
+  请考虑在格式字符串中使用“%ws”
+  
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(92,19): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“LPTSTR”
+  D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(92,19):
+  请考虑在格式字符串中使用“%ls”
+  D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(92,19):
+  请考虑在格式字符串中使用“%lls”
+  D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(92,19):
+  请考虑在格式字符串中使用“%Ls”
+  D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(92,19):
+  请考虑在格式字符串中使用“%ws”
+  
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(148,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(156,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(164,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1044,19): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1044,19): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1040,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1052,19): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1052,19): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1048,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1060,19): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1060,19): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1056,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1129,17): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1129,17): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1203,17): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1203,17): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1251,78): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1251,78): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1262,67): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1262,67): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1297,17): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1297,17): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1355,77): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1355,77): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1366,67): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+D:\U\Media.vcxproj\Source\Utils\w3c\w3c.cpp(1366,67): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+  正在生成代码...

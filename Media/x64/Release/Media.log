@@ -1,0 +1,806 @@
+﻿  DMALibrary.cpp
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  InputManager.cpp
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\InputManager.cpp(23,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\InputManager.cpp(75,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\InputManager.cpp(165,23): warning C4018: “<”: 有符号/无符号不匹配
+  Memory.cpp
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Decrypt.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(90,7): warning C4101: “result”: 未引用的局部变量
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(441,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(477,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(551,106): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(619,30): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(702,60): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(746,83): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(832,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(832,19): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(859,89): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(869,67): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(921,49): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Memory.cpp(929,67): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  Registry.cpp
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\Community\VC\Tools\MSVC\14.40.33807\include\xutility(4672,18): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+  Shellcode.cpp
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Shellcode.cpp(23,68): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Shellcode.cpp(35,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Shellcode.cpp(46,64): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Shellcode.cpp(50,54): warning C4267: “初始化”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Shellcode.cpp(51,40): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\Memory\Shellcode.cpp(53,61): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: “D3D11_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: “D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  imgui_stdlib.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\Administrator\Desktop\PUBG\Include\imgui\imgui_widgets.cpp(644,139): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\imgui\imgui_widgets.cpp(2380,121): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\imgui\imgui_widgets.cpp(3928,167): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\imgui\imgui_widgets.cpp(3928,110): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\imgui\imgui_widgets.cpp(8098,153): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Include\imgui\imgui_widgets.cpp(8223,144): warning C4244: “参数”: 从“float”转换到“ImDrawFlags”，可能丢失数据
+  Main.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\kmboxNet.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\HidTable.h(121,9): warning C4005: “KEY_EXECUTE”: 宏重定义
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Decrypt.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(602,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,158): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,158): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,202): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,202): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,158): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,158): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,202): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,202): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,159): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,159): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,204): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,204): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,71): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,71): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,116): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,116): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,161): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,161): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,206): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,206): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(600,41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(601,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(755,153): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(755,111): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(786,141): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(786,99): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(618,28): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(635,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(635,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(644,28): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(786,51): warning C4838: 从“unsigned __int64”转换到“int”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(786,51): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(787,51): warning C4838: 从“unsigned __int64”转换到“int”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(787,51): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(909,135): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(1147,80): warning C4244: “=”: 从“ULONGLONG”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(1168,75): warning C4244: “=”: 从“ULONGLONG”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(1183,73): warning C4244: “=”: 从“ULONGLONG”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(1363,36): warning C4244: “初始化”: 从“float”转换到“SHORT”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(1436,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\AimBot.h(887,30): warning C4101: “BallisticCurve”: 未引用的局部变量
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Radar.h(88,122): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Radar.h(88,80): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Common\Config.h(407,76): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+C:\Users\Administrator\Desktop\PUBG\Source\Common\Config.h(412,80): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+C:\Users\Administrator\Desktop\PUBG\Source\Common\Config.h(417,80): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(43,56): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(85,109): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(85,72): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(251,86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(253,75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(303,91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(305,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(355,86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(357,75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(407,91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(409,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Rank.h(478,78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Hack.h(285,63): warning C4244: “参数”: 从“T”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Hack.h(285,63): warning C4244:         with
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Hack.h(285,63): warning C4244:         [
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Hack.h(285,63): warning C4244:             T=UINT64
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Hack.h(285,63): warning C4244:         ]
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\MachineCodeGenerator.h(26,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.h(5,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(202,72): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  Entitys.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Common\Entitys.cpp(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+  VectorHelper.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Common\VectorHelper.cpp(81,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Common\VectorHelper.cpp(82,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Common\VectorHelper.cpp(91,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Common\VectorHelper.cpp(92,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Decrypt.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Decrypt.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Decrypt.cpp(8,21): warning C4244: “初始化”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Decrypt.cpp(9,117): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Decrypt.cpp(9,177): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Decrypt.cpp(11,75): warning C4244: “return”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+  Process.cpp
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Process.h(43,10): warning C4267: “参数”: 从“size_t”转换到“ULONG”，可能丢失数据
+  DMARender.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: “D3D11_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: “D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+  正在编译...
+  Overlay.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: “D3D11_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: “D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\RenderHelper.h(264,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\RenderHelper.h(448,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\RenderHelper.h(503,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\RenderHelper.h(516,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\RenderHelper.h(541,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\RenderHelper.h(542,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\HealthBar.h(107,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\HealthBar.h(165,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\HealthBar.h(195,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Decrypt.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Radar.h(88,122): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Radar.h(88,80): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(144,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(145,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(153,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(159,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(174,65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(200,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(201,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(203,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(255,141): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(255,108): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(318,114): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(373,131): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(375,238): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(427,127): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(433,26): warning C4244: “参数”: 从“uint64_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(463,90): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(463,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(495,155): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(513,124): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(513,82): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(722,76): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(740,26): warning C4244: “参数”: 从“uint64_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(746,26): warning C4244: “参数”: 从“uint64_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(765,136): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(793,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(818,116): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(830,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(847,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(859,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(891,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(897,136): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(917,254): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(917,138): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(917,96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(930,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(934,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(935,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(962,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(966,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(967,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(969,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(970,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(972,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(973,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(977,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(1033,156): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(1046,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(1102,156): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\ESP.h(1115,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\Overlay.cpp(11,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Administrator\Desktop\PUBG\Source\Common\Config.h(407,76): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+C:\Users\Administrator\Desktop\PUBG\Source\Common\Config.h(412,80): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+C:\Users\Administrator\Desktop\PUBG\Source\Common\Config.h(417,80): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\kmboxNet.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\HidTable.h(121,9): warning C4005: “KEY_EXECUTE”: 宏重定义
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(602,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,158): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,158): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,202): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(294,202): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,158): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,158): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,202): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(295,202): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,159): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,159): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,204): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(296,204): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,71): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,71): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,116): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,116): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,161): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,161): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,206): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(297,206): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(600,41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(601,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(755,153): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(755,111): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(786,141): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Hack\Players.h(786,99): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\Map.h(43,61): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Overlay\Map.h(43,46): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(202,72): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  Texture.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: “D3D11_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: “D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+  KmBox.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\COM.h(257,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\COM.h(380,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\COM.h(416,42): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\COM.h(625,34): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+  Lurker.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\COM.h(257,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\COM.h(380,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\COM.h(416,42): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\COM.h(625,34): warning C4018: “>”: 有符号/无符号不匹配
+  MoBox.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(280,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(487,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(488,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(489,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(490,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(491,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\Engine.h(492,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+  kmboxNet.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\kmboxNet.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\kmboxNet.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\HidTable.h(121,9): warning C4005: “KEY_EXECUTE”: 宏重定义
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\kmboxNet.cpp(509,17): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\NetConfig\kmboxNet.cpp(859,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  string.cpp
+  Throttler.cpp
+  Timer.cpp
+  matrix.cpp
+  quat.cpp
+  rotator.cpp
+  transform.cpp
+  vector.cpp
+  w3c.cpp
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.h(5,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(148,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(156,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(164,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1044,19): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1044,19): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1040,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1052,19): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1052,19): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1048,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1060,19): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1060,19): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1056,31): warning C4244: “参数”: 从“long”转换到“INTERNET_PORT”，可能丢失数据
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1129,17): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1129,17): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1203,17): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1203,17): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1251,78): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1251,78): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1262,67): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1262,67): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1297,17): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1297,17): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1355,77): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1355,77): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1366,67): warning C4311: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”的指针截断
+C:\Users\Administrator\Desktop\PUBG\Source\Utils\w3c\w3c.cpp(1366,67): warning C4302: “reinterpret_cast”: 从“AsyncW3Client *”到“unsigned long”截断
+  cJSON.c
+    正在创建库 C:\Users\Administrator\Desktop\PUBG\x64\Release\Media.lib 和对象 C:\Users\Administrator\Desktop\PUBG\x64\Release\Media.exp
+  正在生成代码
+  15056 of 15131 functions (99.5%) were compiled, the rest were copied from previous compilation.
+    286 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Media.vcxproj -> C:\Users\Administrator\Desktop\PUBG\x64\Release\Media.exe
