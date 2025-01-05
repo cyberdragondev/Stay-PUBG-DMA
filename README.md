@@ -25,3 +25,7 @@ RADAR
 - Web Radar
 - Mini Map Radar
 - Big Map Radar
+
+## Credits
+- https://github.com/ufrisk/pcileech
+- Scarlet DMA (https://scarlet.technology/)
